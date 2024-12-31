@@ -30,6 +30,14 @@ Make sure you've installed the following libraries using `pip`:
 ```bash
 pip install ffmpeg-python PyQt5
 ```
+## Tutorial Video
+
+
+
+https://github.com/user-attachments/assets/330cb611-26d3-434e-9b70-f0d7747f241b
+
+
+
 
 ## Running the Application
 
