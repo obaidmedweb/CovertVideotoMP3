@@ -103,25 +103,14 @@ This will create the `.app` file in the `dist/` folder.
    ```
 
 This will create the executable file in the `dist/` folder.
+### 1. **Download Source  Application From Here**
+After installing the dependencies, you can run the application with the following command in the terminal:
 
-## Contributing
-If you'd like to contribute to this project, feel free to open an [Issue](https://github.com/username/repository/issues) or submit a Pull Request with your changes.
+```bash
+python main.py
+```
+
 
 ## Developer
 This application was developed by **Obaid Bouslahi**.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-```
-
-### Explanation of the sections in the `README.md`:
-- **Introduction**: Describes the purpose of the application.
-- **Features**: Lists key features of the application.
-- **Requirements**: Lists the dependencies needed to run the app, such as Python, ffmpeg, and required libraries.
-- **Running the Application**: Provides instructions on how to run the app.
-- **Packaging the App for Distribution**: Explains how to package the app as a standalone executable using `py2app` (macOS) or `PyInstaller` (Windows/Linux).
-- **Contributing**: Encourages others to contribute to the project.
-- **Developer**: Credits the developer.
-- **License**: States the license under which the project is distributed (MIT License in this case).
-
-Make sure to update the `username/repository` part with your actual GitHub username and repository name and adjust the license link as necessary.
